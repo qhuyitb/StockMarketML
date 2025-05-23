@@ -22,7 +22,7 @@ Mục tiêu là xây dựng mô hình dự đoán tăng giảm giá cổ phiếu
 
 
 ## Cài đặt thư viện
-Trước khi chạy dự án, bạn cần cài đặt các thư viện sau:
+Trước khi chạy dự án, cần cài đặt các thư viện sau:
 
 ```markdown
 pip install yfinance pandas scikit-learn matplotlib
